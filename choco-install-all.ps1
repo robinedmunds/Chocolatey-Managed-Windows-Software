@@ -77,4 +77,5 @@ choco install --yes `
   treesizefree `
   ultravnc `
   vlc `
-  vmware-workstation-player
+  vmware-workstation-player `
+  youtube-dl
