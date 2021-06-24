@@ -64,11 +64,12 @@ choco install --yes `
   mpv `
   nextcloud-client `
   nmap `
-  nodejs `
+  nodejs-lts `
   notepadplusplus.install `
   obs-studio `
   postman `
   powershell-core `
+  powertoys `
   python `
   rufus `
   sharex `
