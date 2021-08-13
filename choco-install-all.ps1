@@ -36,7 +36,6 @@
 
 choco install --yes `
   7zip `
-  adobereader `
   audacity `
   blender `
   bulkrenameutility `
@@ -44,12 +43,13 @@ choco install --yes `
   cdburnerxp `
   cpu-z `
   curl `
-  everything `
   eac <# exact audio copy #> `
+  everything `
   f.lux `
   ffmpeg `
   filezilla `
   foobar2000 `
+  foxitreader `
   fsviewer `
   gimp `
   git `
