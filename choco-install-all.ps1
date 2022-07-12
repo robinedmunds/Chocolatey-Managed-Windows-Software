@@ -37,6 +37,7 @@
 choco install --yes `
   7zip `
   audacity `
+  autohotkey `
   blender `
   bulkrenameutility `
   ccleaner `
@@ -48,6 +49,7 @@ choco install --yes `
   f.lux `
   ffmpeg `
   filezilla `
+  flac `
   foobar2000 `
   foxitreader `
   fsviewer `
@@ -71,11 +73,13 @@ choco install --yes `
   powershell-core `
   powertoys `
   python `
+  restic `
   rufus `
   sharex `
   sqlitebrowser `
   streamlink `
   treesizefree `
+  typora `
   ultravnc `
   vlc `
   vmware-workstation-player `
