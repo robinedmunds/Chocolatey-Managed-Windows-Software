@@ -78,7 +78,7 @@ choco install --yes `
   sqlitebrowser `
   streamlink `
   treesizefree `
-  typora <# LICENSED #>`
+  typora <# LICENSED #> `
   ultravnc `
   vlc `
   vmware-workstation-player `
