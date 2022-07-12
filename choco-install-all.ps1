@@ -25,7 +25,6 @@
 # teamspeak
 # telegram
 # thunderbird
-# typora (markdown)
 # uplay (ubisoft)
 # vs code
 
@@ -79,7 +78,7 @@ choco install --yes `
   sqlitebrowser `
   streamlink `
   treesizefree `
-  typora `
+  typora <# LICENSED #>`
   ultravnc `
   vlc `
   vmware-workstation-player `

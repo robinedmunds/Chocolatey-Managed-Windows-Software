@@ -14,4 +14,8 @@ Running `choco-install-all.ps1` in PowerShell will install all software packages
 1. Run `choco outdated` to get list of outdated packages
 1. Run `choco upgrade all --yes` to upgrade all outdated packages
 
+## List installed packages
+
+1. `choco list --local-only`
+
 [Chocolatey command reference](https://chocolatey.org/docs/commands-reference)
