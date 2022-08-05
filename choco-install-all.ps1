@@ -63,6 +63,7 @@ choco install --yes `
   libreoffice-fresh `
   microsoft-windows-terminal `
   mpv `
+  neovim `
   nextcloud-client `
   nmap `
   nodejs-lts `
