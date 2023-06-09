@@ -35,6 +35,7 @@
 
 choco install --yes `
   7zip `
+  adobereader `
   audacity `
   autohotkey `
   blender `
@@ -50,7 +51,6 @@ choco install --yes `
   filezilla `
   flac `
   foobar2000 `
-  foxitreader `
   fsviewer `
   gimp `
   git `
@@ -83,4 +83,4 @@ choco install --yes `
   ultravnc `
   vlc `
   vmware-workstation-player `
-  youtube-dl
+  yt-dlp
