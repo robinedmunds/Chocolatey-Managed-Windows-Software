@@ -6,7 +6,6 @@
 # UNMANAGED
 # ---------
 
-# adobe xd
 # album art downloader
 # all drivers
 # authy (2fa)
@@ -30,6 +29,8 @@
 # thunderbird
 # uplay (ubisoft)
 # vs code
+# powershell-core
+# windows-terminal
 
 
 # -------
@@ -39,6 +40,7 @@
 choco install --yes `
     7zip `
     adobereader `
+    anki `
     audacity `
     autohotkey `
     blender `
@@ -64,7 +66,6 @@ choco install --yes `
     inkscape `
     keepass `
     libreoffice-fresh `
-    microsoft-windows-terminal `
     mpv `
     neovim `
     nextcloud-client `
@@ -72,8 +73,6 @@ choco install --yes `
     nodejs-lts `
     notepadplusplus.install `
     obs-studio `
-    postman `
-    powershell-core `
     powertoys `
     python `
     restic `
