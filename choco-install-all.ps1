@@ -1,40 +1,44 @@
 # ===========================================
 # ROBIN'S CHOCOLATEY MANAGED WINDOWS SOFTWARE
 # ===========================================
-
+#
+#
 # ---------
 # UNMANAGED
 # ---------
-
+#
 # album art downloader
 # all drivers
 # authy (2fa)
 # battle.net (blizzard)
-# brave
-# chrome
 # davinci resolve (video editing)
 # discord
 # ea games
 # figma
 # firefox
-# free download manager 3
-# microsoft edge
 # microsoft office
-# simpledlna
-# spotify
 # steam
-# steelseries engine (mouse)
+# steelseries gg (mouse)
 # telegram
 # thunderbird
-# uplay (ubisoft)
+# ubisoft connect
 # vs code
+#
+#
+# -----------------
+# WINDOWS STORE UWP
+# -----------------
+#
+# minecraft
+# oh-my-posh
 # powershell-core
+# spotify
 # windows-terminal
-
-
-# -------
-# MANAGED
-# -------
+#
+#
+# -------------
+# CHOCO MANAGED
+# -------------
 
 choco install --yes `
     '7zip' `
