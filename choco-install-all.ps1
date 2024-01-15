@@ -24,7 +24,6 @@
 # spotify
 # steam
 # steelseries engine (mouse)
-# teamspeak
 # telegram
 # thunderbird
 # uplay (ubisoft)
@@ -38,7 +37,7 @@
 # -------
 
 choco install --yes `
-    7zip `
+    '7zip' `
     adobereader `
     anki `
     audacity `
@@ -47,11 +46,15 @@ choco install --yes `
     bulkrenameutility `
     ccleaner `
     cdburnerxp `
-    cpu-z `
+    checksum `
+    chromium `
+    'cpu-z' `
+    crystaldiskinfo `
     curl `
+    cygwin `
     eac <# exact audio copy #> `
     everything `
-    f.lux `
+    'f.lux' `
     ffmpeg `
     filezilla `
     flac `
@@ -60,29 +63,30 @@ choco install --yes `
     gimp `
     git `
     gpg4win `
+    gsudo `
     handbrake `
     hexchat `
     hwinfo `
     inkscape `
     keepass `
-    libreoffice-fresh `
+    'libreoffice-fresh' `
     mpv `
-    neovim `
-    nextcloud-client `
+    neovim cmake diffutils fzf golang ripgrep zig `
+    'nextcloud-client' `
     nmap `
-    nodejs-lts `
-    notepadplusplus.install `
-    obs-studio `
+    'nodejs-lts' `
+    'notepadplusplus.install' `
+    'obs-studio' `
     powertoys `
     python `
     restic `
-    rufus `
     sharex `
     sqlitebrowser `
     streamlink `
+    teamspeak `
     treesizefree `
     typora <# LICENSED #> `
-    ultravnc `
+    ventoy `
     vlc `
-    vmware-workstation-player `
-    yt-dlp
+    'vmware-workstation-player' `
+    'yt-dlp'
