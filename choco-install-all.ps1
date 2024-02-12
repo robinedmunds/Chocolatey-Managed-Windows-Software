@@ -70,6 +70,7 @@ choco install --yes `
     gsudo `
     handbrake `
     hexchat `
+    'hugo-extended' `
     hwinfo `
     inkscape `
     keepass `
