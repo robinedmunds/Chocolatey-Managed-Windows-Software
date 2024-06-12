@@ -9,14 +9,13 @@
 #
 # album art downloader
 # all drivers
-# authy (2fa)
 # battle.net (blizzard)
 # davinci resolve (video editing)
 # discord
 # ea games
 # figma
-# firefox
 # microsoft office
+# mysql
 # steam
 # steelseries gg (mouse)
 # telegram
@@ -65,7 +64,7 @@ choco install --yes `
     foobar2000 `
     fsviewer `
     gimp `
-    git `
+    git gh `
     gpg4win `
     gsudo `
     handbrake `
@@ -76,15 +75,18 @@ choco install --yes `
     keepass `
     'libreoffice-fresh' `
     mpv `
-    neovim cmake diffutils fzf golang ripgrep zig `
+    neovim cmake diffutils fzf golang mingw ripgrep zig `
     'nextcloud-client' `
     nmap `
     'nodejs-lts' `
     'notepadplusplus.install' `
     'obs-studio' `
+    postgresql15 `
     powertoys `
-    python `
+    'pyenv-win' <# python version management #> `
+    qr `
     restic `
+    rust `
     sharex `
     sqlitebrowser `
     streamlink `
@@ -94,4 +96,5 @@ choco install --yes `
     ventoy `
     vlc `
     'vmware-workstation-player' `
-    'yt-dlp'
+    'yt-dlp' `
+    zig
