@@ -41,7 +41,6 @@
 
 choco install --yes `
     '7zip' `
-    adobereader `
     anki `
     audacity `
     autohotkey `
